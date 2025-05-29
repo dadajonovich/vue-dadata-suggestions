@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import $ from 'jquery';
+import * as $ from 'jquery';
 import '../dadata.js';
 
 export default {

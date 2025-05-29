@@ -1,6 +1,6 @@
 {
   "name": "vue-dadata-suggestions",
-  "version": "0.6.3",
+  "version": "0.7.0",
   "description": "Vue component for dadata suggestion",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Andey Iatsenko <yzen.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.7.1"
   },
   "repository": {
     "type": "git",
